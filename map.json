@@ -1223,9 +1223,9 @@
          "image":"src\/assets\/tileset1.png",
          "imageheight":396,
          "imagewidth":396,
-         "margin":2,
+         "margin":1,
          "name":"tileset1",
-         "spacing":4,
+         "spacing":2,
          "tilecount":121,
          "tileheight":32,
          "tiles":[
@@ -1561,9 +1561,9 @@
          "image":"src\/assets\/tileset2.png",
          "imageheight":360,
          "imagewidth":432,
-         "margin":2,
+         "margin":1,
          "name":"tileset2",
-         "spacing":4,
+         "spacing":2,
          "tilecount":120,
          "tileheight":32,
          "tiles":[
