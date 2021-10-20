@@ -2509,9 +2509,9 @@
          "image":"src\/assets\/modernset_interior.png",
          "imageheight":1800,
          "imagewidth":576,
-         "margin":2,
+         "margin":1,
          "name":"modernset_interior",
-         "spacing":4,
+         "spacing":2,
          "tilecount":800,
          "tileheight":32,
          "tiles":[
