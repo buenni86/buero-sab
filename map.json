@@ -1209,6 +1209,26 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Credits: DB Systel \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"DB WorkAdventure SAB Map"
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"map.png"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Smart Application Builder B\u00fcro"
+        }, 
+        {
          "name":"script",
          "type":"string",
          "value":"skript.js"
@@ -1221,8 +1241,8 @@
          "columns":11,
          "firstgid":1,
          "image":"src\/assets\/tileset1.png",
-         "imageheight":396,
-         "imagewidth":396,
+         "imageheight":374,
+         "imagewidth":374,
          "margin":1,
          "name":"tileset1",
          "spacing":2,
@@ -1559,8 +1579,8 @@
          "columns":12,
          "firstgid":122,
          "image":"src\/assets\/tileset2.png",
-         "imageheight":360,
-         "imagewidth":432,
+         "imageheight":340,
+         "imagewidth":408,
          "margin":1,
          "name":"tileset2",
          "spacing":2,
@@ -2059,8 +2079,8 @@
          "columns":10,
          "firstgid":242,
          "image":"src\/assets\/tileset3.2.png",
-         "imageheight":360,
-         "imagewidth":360,
+         "imageheight":340,
+         "imagewidth":340,
          "margin":1,
          "name":"tileset3.2",
          "spacing":2,
@@ -2280,8 +2300,8 @@
          "columns":11,
          "firstgid":342,
          "image":"src\/assets\/tileset1-repositioning.png",
-         "imageheight":396,
-         "imagewidth":396,
+         "imageheight":374,
+         "imagewidth":374,
          "margin":1,
          "name":"tileset1-repositioning",
          "spacing":2,
@@ -2304,8 +2324,8 @@
          "columns":8,
          "firstgid":463,
          "image":"src\/assets\/fantasy.png",
-         "imageheight":4788,
-         "imagewidth":288,
+         "imageheight":4522,
+         "imagewidth":272,
          "margin":1,
          "name":"fantasy",
          "spacing":2,
@@ -2507,8 +2527,8 @@
          "columns":16,
          "firstgid":1527,
          "image":"src\/assets\/modernset_interior.png",
-         "imageheight":1800,
-         "imagewidth":576,
+         "imageheight":1700,
+         "imagewidth":544,
          "margin":1,
          "name":"modernset_interior",
          "spacing":2,
