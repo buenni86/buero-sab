@@ -1216,7 +1216,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB WorkAdventure SAB Map"
+         "value":"DB WorkAdventure - Smart Application Builder B\u00fcro Map"
         }, 
         {
          "name":"mapImage",
@@ -1245,6 +1245,12 @@
          "imagewidth":374,
          "margin":1,
          "name":"tileset1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+                }],
          "spacing":2,
          "tilecount":121,
          "tileheight":32,
@@ -1583,6 +1589,12 @@
          "imagewidth":408,
          "margin":1,
          "name":"tileset2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+                }],
          "spacing":2,
          "tilecount":120,
          "tileheight":32,
@@ -2083,6 +2095,12 @@
          "imagewidth":340,
          "margin":1,
          "name":"tileset3.2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+                }],
          "spacing":2,
          "tilecount":100,
          "tileheight":32,
@@ -2304,6 +2322,12 @@
          "imagewidth":374,
          "margin":1,
          "name":"tileset1-repositioning",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+                }],
          "spacing":2,
          "tilecount":121,
          "tileheight":32,
@@ -2328,6 +2352,12 @@
          "imagewidth":272,
          "margin":1,
          "name":"fantasy",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+                }],
          "spacing":2,
          "tilecount":1064,
          "tileheight":32,
