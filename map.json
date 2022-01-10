@@ -1118,14 +1118,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "pixelsize":12,
+                     "fontfamily":"Press Start 2P",
+                     "pixelsize":10,
                      "text":"Tutorial",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":57.59375,
-                 "x":879.203125,
+                 "width":89.59375,
+                 "x":888.203125,
                  "y":106.3515625
                 }, 
                 {
